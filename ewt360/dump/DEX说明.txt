@@ -1,0 +1,1 @@
+dex文件反编译提示提示错误，比如在jadx中提示checksum可在jadx关闭checksum验证。自行搜索jadx关闭checksum方法，或者使用其他工具修复dex头
